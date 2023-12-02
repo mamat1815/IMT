@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856908659577",
+    "project_id": "imt-app-178d3",
+    "storage_bucket": "imt-app-178d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856908659577:android:cb069e1332627de30c4da8",
+        "android_client_info": {
+          "package_name": "com.example.imt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7u-J07tnMZDBzh614zwol0yp_NkNHhBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
